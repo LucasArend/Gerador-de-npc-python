@@ -22,11 +22,11 @@ class Personagem():
         print ('-----------Pericias-----------')
     def Desvantagens(self, numero):
         Lista = [
-            ['Saúde fraca','Míope','Fraco pelo sexo oposto', 'Azarado nos jogos', 'Nervoso perto do sexo oposto', 'Piadista', 'Indeciso', 'Tímido', 'Insônia', 'Viciado em drogas(1)', 'Arrogante', 'Curioso', 'Delirante', 'Podia ser pior', 'Péssimo senso de direção'],
-            ['Perdeu um membro', 'Lento', 'Asma', 'Infantil', 'Descoordenado', 'Rastreado', 'Inocente', 'Apreço a arma', 'Péssima visão no escuro', 'Dívida ancestral', 'Distraído', 'Enxaqueca(2)', 'Impulsividade', 'Agressivo', 'Senhas fracas', 'Assombrado', 'Azarado', 'Aziago', 'Furia', 'Sadomasoquismo', 'Gregário', 'Vocabulário limitado'],
-            ['Mentiroso', 'Língua solta', 'Renegado', 'Esquizofrenia', 'Deficiência(auditiva)', 'Deficiência(visual)', 'Alcoólatra', 'Depressão', 'Fobia(Escuro)', 'Fobia(maquinas)', 'Fobia(cyborg)', 'Fobia(hacker)', 'Fobia(granadas)', 'Homicida', 'Enjoo em veiculos(3)'],
+            ['Saúde fraca','Míope','Fraco pelo sexo oposto', 'Azarado nos jogos', 'Piadista', 'Indeciso', 'Tímido', 'Insônia', 'Arrogante', 'Curioso', 'Delirante', 'Podia ser pior', 'Péssimo senso de direção'],
+            ['Perdeu um membro', 'Lento', 'Asma', 'Infantil', 'Descoordenado', 'Rastreado', 'Inocente', 'Apreço a arma', 'Péssima visão no escuro', 'Dívida ancestral', 'Distraído', 'Enxaqueca(2)', 'Impulsividade', 'Agressivo', 'Senhas fracas', 'Assombrado', 'Azarado', 'Aziago', 'Furia', 'Gregário', 'Vocabulário limitado'],
+            ['Mentiroso', 'Língua solta', 'Renegado', 'Esquizofrenia', 'Deficiência(auditiva)', 'Deficiência(visual)', 'Fobia(Escuro)', 'Fobia(maquinas)', 'Fobia(cyborg)', 'Fobia(hacker)', 'Fobia(granadas)', 'Enjoo em veiculos(3)'],
             ['Epilético', 'Aversão a modificação humana', 'Esquizotípica', 'Doente Termina', 'Paraplégico'],
-            ['Vesgo', 'Demente', 'Horrendo', 'Viciado em drogas', 'Frágil']
+            ['Vesgo', 'Viciado em drogas', 'Frágil']
         ]
         Pegar = []
         Desvantagens = []
